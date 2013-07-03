@@ -4,5 +4,8 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "classmap": ["library/"]
     }
 }
